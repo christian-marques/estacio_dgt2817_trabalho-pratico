@@ -1,4 +1,4 @@
-temperatura = 23
+temperatura = 31
 
 if temperatura < 30:
     print ("A temperatura hoje está amena")

@@ -1,4 +1,4 @@
-tempoExperiencia = 1
+tempoExperiencia = 3
 
 if tempoExperiencia < 2:
     print("Nível de conhecimento júnior.")
